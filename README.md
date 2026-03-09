@@ -21,9 +21,5 @@ Using Power BI, the data was cleaned, modeled, and transformed into an interacti
 • Receptor subtype distribution visualization (ER / PR / HER2)  
 • Interactive filters for exploring patient demographic and clinical patterns  
 
-## Dashboard Preview
-
-![Dashboard](dashboard_preview.png)
-
 ## Dataset
 Breast cancer clinical dataset including demographic and treatment variables used for dashboard analysis.
